@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hlvaP2IUtWXwCq/EFYYV1B9JzjKTjpnZtZBDkT0h97DIAB35ouyymkQV0wZdOSbY7H2G0y3aSNwgWW+PtQYHAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Martin\\source\\repos\\ukol1\\ukol1\\ukol1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martin\\.nuget\\packages\\jace\\1.0.0\\jace.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

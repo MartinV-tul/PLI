@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ukol1/1.0.0": {
+        "dependencies": {
+          "Jace": "1.0.0"
+        },
+        "runtime": {
+          "ukol1.dll": {}
+        }
+      },
+      "Jace/1.0.0": {
+        "runtime": {
+          "lib/netstandard1.6/Jace.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ukol1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jace/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dEq+aw0YsA8pGzbKARD9zlfC0rXeZZphEOE5mwrxBlOspIFAgngfovJwEQY/E2dfIT2ZKHj4VaH9cJwf+oSn2w==",
+      "path": "jace/1.0.0",
+      "hashPath": "jace.1.0.0.nupkg.sha512"
+    }
+  }
+}
