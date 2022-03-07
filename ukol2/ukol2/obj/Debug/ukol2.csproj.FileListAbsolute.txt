@@ -1,0 +1,8 @@
+C:\Users\Martin\source\repos\ukoly\ukol2\ukol2\bin\Debug\ukol2.exe.config
+C:\Users\Martin\source\repos\ukoly\ukol2\ukol2\bin\Debug\ukol2.exe
+C:\Users\Martin\source\repos\ukoly\ukol2\ukol2\bin\Debug\ukol2.pdb
+C:\Users\Martin\source\repos\ukoly\ukol2\ukol2\obj\Debug\ukol2.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\ukoly\ukol2\ukol2\obj\Debug\ukol2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\source\repos\ukoly\ukol2\ukol2\obj\Debug\ukol2.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\ukoly\ukol2\ukol2\obj\Debug\ukol2.exe
+C:\Users\Martin\source\repos\ukoly\ukol2\ukol2\obj\Debug\ukol2.pdb
