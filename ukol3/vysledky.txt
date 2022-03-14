@@ -1,0 +1,9 @@
+TEXTEN1.txt
+unigram model ppl: 525,452409193471
+bigram model ppl: 39,0548082696745
+trigram model ppl: 5,23066224817865
+
+TEXTCZ1.txt
+unigram model ppl: 2974,42469730992
+bigram model ppl: 26,8681754427674
+trigram model ppl: 2,06434851156559
