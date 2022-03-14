@@ -1,0 +1,5 @@
+file TEXTEN1.txt: 5645 sentences, 221098 words, 0 OOVs
+0 zeroprobs, logprob= -384116 ppl= 49.4377 ppl1= 54.6148
+
+file TEXTCZ1.txt: 14271 sentences, 223179 words, 0 OOVs
+0 zeroprobs, logprob= -425734 ppl= 62.0787 ppl1= 80.8333
