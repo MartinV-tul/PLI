@@ -1,0 +1,152 @@
+Jazyk je abstraktni struktura (rad mezi vhodnymi primitivy) schopna nest informaci, a tak ji uchovavat a prenaset – sdelovat. Pri aplikaci musi byt materializovana vhodne strukturovanou hmotou ci energii (zduvodneni viz Informace). Tak je jazyk i system slouzici jako zakladni prostredek lidskeho dorozumivani, komunikace.[1] Krome funkce dorozumivaci muze plnit dalsi funkce, napr. apelovou (muze slouzit k predavani prikazu), referencni (odkazuje se na casove nebo prostorove vztahy), kontaktovou, emotivni, expresivni, estetickou (poetickou) a metajazykovou.[2]
+
+Odhadovany pocet jazyku na svete kolisa mezi peti a sedmi tisici. V mnoha pripadech je obtizne rozlisit mezi jazykem a dialektem; presny odhad je tedy zavisly na pouzitych metodach a stanovenych kriteriich. Akademikove se shoduji, ze do konce tohoto stoleti vymizi na padesat az devadesat procent soucasnych zivych jazyku.[3]
+
+Mluveny jazyk ma ale i sve limity, ktere naopak nemusi mit znakovy jazyk.[4]
+
+
+Obsah
+1	Etymologie
+2	Jazykoveda
+3	Kodifikace, definice a struktura
+4	Vlastnosti a funkce
+5	Jazykovy zemepis
+6	Definice jazyka
+7	Jazyky formalni a neformalni
+7.1	Semanticky trojuhelnik
+8	Jazyk a jeho vazba s poznanim z hlediska vagnosti
+9	Vlastnost mysli, organ nebo instinkt
+10	Formalni system znaku
+10.1	Rozvrstveni jazyka
+11	Nastroj komunikace
+12	Lidsky jazyk
+12.1	Vyvoj
+12.2	Unikatnost
+13	Odkazy
+13.1	Reference
+13.2	Literatura
+13.3	Souvisejici clanky
+13.4	Externi odkazy
+Etymologie
+Ceske slovo jazyk pochazi z praslovanskeho zakladu *językъ, kterezto slovo ma nejblize ke staroperskemu slovu insuwis.[5] Rekonstruovany indoevropsky koren slova je patrne *n̥-ghu-[5], respektive *dnghu-[6] ci *dnghwa-[7], s vyznamem jazyk (organ), rec, mluva, jazyk. Prvni cast je predpona *(d)n-, druha cast je koren, ktery se promitl i do ostatnich indoevropskych jazyku (anglicky language ci tongue, nemecky Zunge, rusky Язык (jazyk), francouzsky langage, spanelsky lengua, litevsky liezuvis, latinsky lingua).[5][6][7] Koren mohl byt take kontaminovan korenem slova lizat.[5][6] Puvod hlasky d v germanskych a dalsich jazycich (gotsky tuggo, staroirsky tege ci velssky tafod)[7] neni zrejmy, jedna se bud o zdvojeni korene slova nebo o tabuove duvody.[5]
+
+Jazykoveda
+Vedecky obor zabyvajici se zkoumanim jazyka se nazyva lingvistika. Otazky tykajici se filosofie jazyka byly pokladany jiz ve starovekem Recku, byly zde otazky typu zda mohou slova reprezentovat zkusenost nebo motivovanost obsahu slov, konkretnimi pamatkami jsou napriklad Platonovy dialogy Gorgias a Faidros. Jeste casnejsim dokladem uvazovani o jazyku jsou gramatiky sanskrtu, nejranejsi zaznamy o kodifikaci liturgickeho jazyka a usporadani znaku do abecedy patri do obdobi 8. stoleti pr. n. l. Zasadnim dilem je Paṇiniho gramatika ze 6. stoleti pr. n. l. Vyznamni myslitele vyjadrujici se k jazyku jako treba Rousseau tvrdi, ze jazyk pochazi z emoci, zatimco Kant je zastancem nazoru o puvodu racionalnim (rozumovem) a v logickem mysleni. Filosofove dvacateho stoleti jako Wittgenstein tvrdi, ze samotna filosofie je studiem jazyka. Do dejin lingvistiky se silne zapsali napriklad Ferdinand de Saussure svou teorii jazykoveho znaku a priklonem ke strukture a Noam Chomsky teorii generativni gramatiky.
+
+Kodifikace, definice a struktura
+
+Poloha jazyka pri ruzne artikulaci samohlasek
+
+Mezinarodni foneticka abeceda IPA
+Prirozene jazyky jsou mluveny, znakovany nebo psany, ale vsechny jazyky mohou byt zaznamenany jako audiozaznam, video nebo taktilni zaznam Braillovym pismem. Toto je dano modalni nezavislosti (zpusobu predani samotneho sdeleni). Z perspektivy filosofie muze byt jazyk definovan nekolika zpusoby: 1. kognitivni schopnost ucit se a pozivat komplexni systemy komunikace, 2. jako medium k popsani zakonu, na zaklade kterych tyto systemy funguji, 3. souhrn vypovedi, ktere mohou byt vypovezeny na zaklade techto zakonu.
+
+Vsechny jazyky prochazeji procesem semiozy – prirazovani znaku (slov) k jednotlivym vyznamum. Oralni, manualni a taktilni jazyky obsahuji fonologicky system, ktery je souborem pravidel podle kterych se jednotlive jazykove znaky (nejmensi jednotky nesouci vyznam(fonemy)) radi do sekvenci, kterymi jsou vyznamove vetsi slovotvorne celky (morfemy) nebo slova (lexemy). Syntakticky system se potom stara o kombinaci slov do frazi a vypovedi.
+
+Vlastnosti a funkce
+Lidsky jazyk ma vlastnosti produktivity, rekurzivity a umisteni, celkove potom zavisi na spolecenske konvenci a uceni. Jeho komplexni struktura vyzaduje mnohem sirsi zasobu vyznamu nez jakykoliv znamy system zvireci komunikace. Za pocatecni stav jazyka je povazovano obdobi, kdy rani hominide zacali postupne menit sve primarni dorozumivaci systemy, tohoto stavu se primo tykaji teorie tzv. jinych mysli a sdilene intence. Casto byva tento stav davan take do souvislosti s narustajici kapacitou mozku a vznik ruznych struktur jazyka je potom spojovan s ruznymi komunikacnimi a spolecenskymi funkcemi. Jazyk je zpracovavan v mnoha ruznych oblastech mozku, za jazykova centra jsou vsak povazovana Brockova a Wernickeho oblast. Lide se uci jazyk v ranem detstvi a deti plynne mluvi, kdyz jsou jim priblizne tri roky. Pouzivani jazyka je hluboce spjato s lidskou kulturou. Spolecne s jeho hlavnim ucelem, tedy komunikaci, slouzi jazyk take v mnoha spolecenskych a kulturnich ohledech jako napriklad prislusnost k jiste socialni skupine, socialni stratifikace ci zabava.
+
+Jazykovy zemepis
+Jazyky se vyvijeji a rozruznuji prubehem casu. Historie jejich evoluce muze byt rekonstruovana napriklad srovnavaci metodou, kdy se pri porovnavani modernich jazyku urcuje, ktery prvek musel mit spolecny prajazyk, aby se doslo vysvetleni nasledujicich stupnu vyvoje.
+
+Skupina jazyku, ktere se vyvinuly ze spolecneho predka se nazyva jazykova rodina. Mezi nejpouzivanejsi patri 6 jazykovych rodin
+
+indoevropska jazykova rodina se zastupci napr. cestina, anglictina, rustina, kurdstina nebo hindstina;
+sinotibetska jazykova rodina, napr. tibetstina, mongolstina a dialekty ci jazyky cinstiny a dalsi;
+afroasijska jazykova rodina – arabstina, somalstina, hebrejstina;
+bantuske jazyky, napr. svahilstina, zulustina a stovky zivych subsaharskych jazyku;
+Malajsko-polynezske jazyky – indonestina, malajstina a stovky pacifickych jazyku;
+Dravidska rodina jizni Indie, mimo jine tamilstina a telugstina.  
+Dalsimi jsou napr. indianske jazyky, domorode jazyky australske a tichooceanske. Nektere jazyky jsou samostatne, bez prislusnosti k jazykove rodine.
+
+Definice jazyka
+Jazyk je kod ci sifra slouzici ke komunikaci a prenosu sdeleni; na rozdil vsak od jazyku umelych, ktere slouzi napriklad k programovani, je lidsky jazyk prirozene vznikly a dynamicky se vyvijejici. Rozdil mezi prirozenymi a umelymi jazyky je predevsim fakt, ze formalni (umele) jazyky jsou pouze systemy znaku ke kodovani a dekodovani sdeleni, naproti tomu prirozene jazyky plni radu dalsich uloh, napr. spolecenskou. Lidske jazyky studuje obor lingvistika cili jazykoveda.
+
+Jazykoveda nahlizi na jazyk ze dvou stran. Jednak jako abstraktni koncept a jednak jako specificke systemy – napr. cestina. Svycarsky lingvista Ferdinand de Saussure definoval moderni lingvistiku. Pouzil francouzske terminy
+
+langage k oznaceni jazyka jako konceptu spolecneho vsem,
+langue jako konkretni jazyk a
+parole jakozto specificky akt komunikace probehly v nekterem z jazyku.
+Kdyz mluvime o jazyku jako o obecnem konceptu, mohou byt pouzity definice, ktere zasahuji ruzne stranky tohoto fenomenu. Rozlicne definice prinaseji mnohost pristupu a chapani jazyka. Podobne nuance nastavaji i u lingvistickych skol a teorii s nimi spjatych a jimi zastavanych.
+
+Mohou to byt napriklad:
+
+hlavni dorozumivaci prostredek mezi lidmi,
+znakovy system, pomoci ktereho se popisuji veci, akce, myslenky a stavy,
+nastroj, ktery lide pouzivaji pro vyjadreni svych predstav reality a pro jejich nasledne sdeleni jinym lidem,
+system vyznamu sdileny lidmi,
+soubor gramaticky spravnych vyjadreni (tj. slova, vety apod.),
+v sirsim vyznamu i dalsi kodovaci nebo dorozumivaci systemy, napriklad jazyk neslysicich (znakovy jazyk), programovaci jazyk, zvukove projevy zvirat apod.
+
+dalsi strankou jazyka je uchovavani informaci
+Debaty o prirozenosti a puvodu jazyka byly vedeny od starovekych dob. Recti filosofove Gorgias a Platon polemizovali o vztazich mezi slovy, univerzaliich a motivovanosti slov jsoucny. Platon zde prohlasuje, ze komunikace je mozna, protoze jazyk reprezentuje predstavy a koncepty, ktere existuji nezavisle na jazyku, avsak pro jazyk jsou zasadni. Mohou byt chapany jako zrcadla reality, ktera jazyk obklopuje.
+
+Behem osvicenskych debat o puvodu cloveka bylo velmi modni polemizovat tez o puvodu jazyka. Myslitele jako Rousseau a Herder prosazovali nazor o puvodu jazyka z emoci a instinktivni potreby se vyjadrovat a jde tedy o jev blizky hudbe nebo poezii. Naproti tomu racionaliste, jmenovite Kant nebo Descartes, videli zdroj v racionalnim uvazovani a pragmaticke potrebe komunikace. Na prelomu dvacateho stoleti zacali badatele jako Wittgenstein zjistovat, jakou roli hraje jazyk pri beznem prozivani sveta. Zda jazyk reflektuje objektivni skutecnost sveta nebo jestli je tim mediem, kterym chapeme svet. Tyto uvahy vedly k prehodnoceni otazek tehdejsi filosofie na otazky lingvisticke. 
+
+Jazyky formalni a neformalni
+Zakladni deleni jazyku je na formalni a neformalni.
+
+Formalni jazyky jsou umele jazyky (matematika, formalni logiky, pocitacove jazyky), ktere se vyznacuji tim, ze interpretace jejich jazykovych konstruktu ma nulovou vnitrni (vnitropsychickou) vagnost (neurcitost, mlhavost, rozmazanost)[8], tedy, ze je exaktni. Jinymi slovy, kazdy vedouci clovek naprosto presne, bez jakychkoli pochyb vi, co znamenaji, tedy jaky maji vyznam. Jinak receno, znamena to, ze v ramci dane vedecke komunity je semanticky diferencial[9] jejich vyznamu nulovy. Formalni jazyky jsou tak soucasti exaktniho sveta, a mohou reprezentovat (vypovidat o, popisovat) pouze entity exaktniho sveta. Znalosti o realnem svete mohou reprezentovat pouze prostrednictvim velicin, ktere maji tu vlastnost, ze jsou meritelnou elementarni soucasti sveta realneho (sondami do neho, ci jeho zastupci), i soucasti sveta exaktniho (maji exaktni interpretaci), a tak tvori most mezi obema svety.
+
+Poznani uskutecnene s pouzitim velicin nazyvame umele (exaktni Newtonovo) a poskytuje znalosti s nulovou vnitrni vagnosti viz veda. I formalni jazyky musi (z mnoha duvodu) byt schopny reprezentovat informaci s vagnosti. Jelikoz vnitrni vagnost to byt nemuze (nesmi), muze to byt pouze jazykove uchopitelna nejistota (vnejsi vagnost), a pro ten ucel je k dispozici (jazykove rozsireni o) popis fuzzy nebo stochastickymi hodnotami velicin, a fuzzy ci stochastickymi vztahy mezi velicinami. Takove rozsireni rozsiruje aplikovatelnost jazyka – jeho vyjadrovaci silu. Ilustraci muze treba byt rozsireni Turingova stroje na stochasticky Turinguv stroj, a porovnani vyjadrovaci sily jazyku jimi generovanych. Pro jine se nabizi porovnani pusobnosti jazyku deterministicke a stochasticke fyziky. Princip je ten, ze pripustime-li vice nejistoty, muzeme se dovedet (viz poznani, veda), a tak i jazykove reprezentovat (tedy i sdelovat) vice.
+
+Neformalni jazyky jsou prirozene, zive i nezive, umele napr. esperanto, vnitropsychicke nebo umelecke, jako je malba, kresba, skulptura atp. Jsou to jazyky s inherentni vagnosti interpretace svych jazykovych konstruktu (slov, vet, tahu stetcem apod.). Tato interpretace, je vagni, subjektivni a emocionalni, menici se od cloveka k cloveku, a u kazdeho z nich v case, a rika se ji konotace.[10]. Semanticky diferencial konotace je vzdy nenulovy, a da se merit metodami semantickeho diferencialu.
+
+Neformalni jazyky (diky sve velke toleranci k vagnosti) mohou reprezentovat velice rozsahlou paletu druhu informace s inherentni (vnitrni) vagnosti interpretace, treba od momentalniho rozpolozeni lidske psychy daneho cloveka, po znalosti o realnem svete, ziskane prirozenym (vagnim) lidskym poznanim.
+
+Prevoditelnost informace z jazyka do jazyka je mozna vzdy jen v ramci teze skupiny jazyku, tedy formalnich (napr. z matematicke reprezentace do pocitacoveho jazyka) a neformalnich (napr. z anglictiny do cestiny, z malby do skulptury), nikoli mezi onemi skupinami, jak je zrejme z jejich vztahu k vnitrni vagnosti. Prevod z vnitropsychickych jazyku do vnejsiho sdelovaciho jazyka nazyvame formulace (viz obr. 1.), opacny prevod nazyvame konotace (viz obr. 1.). Oba tyto prevody jsou vagni, subjektivni a emocionalni, menici se od cloveka k cloveku, i u kazdeho z nich v case. V pripade, ze vnitropsychicke zpracovani informace probiha ve formalnim jazyce (u matematiku, a jinych vedcu z oboru exaktni vedy), vyse zminene prevody jsou trivialni (nic se jimi nemeni) a tak jsou exaktni.
+
+Je vhodne upozornit, ze neformalnim (prirozenym) jazykem lze vyjadrovat i jmena entit exaktniho sveta, napr. jmena hernich karet a operaci nad nimi (jsou dany pravidly hry), jmena sachovych figur a operaci nad nimi, jmena matematickych objektu a operaci nad nimi, napr. derivace drahy podle casu, jmena cisel, apod. Plati to v okruhu lidi, kde vyznam onech entit exaktniho sveta kazdy z jedincu exaktne (tedy bez jakychkoli pochyb) zna. V tomto pripade nastava vyjimecna situace, kdy konstrukty prirozeneho jazyka ztraceji svoji prirozenou vagnost, subjektivitu a emocionalitu a dostavaji tak exaktni vyznam. Je to tim, ze odkazuji k exaktnim entitam. Neziskavaji vsak nastrojovou silu formalniho jazyka, ktery obvykle umoznuje (obsahuje nastroje pro) formalni inferenci (odvozovani), kdy je mozno pouze na zaklade syntakticke slozky (formy) odvodit nove jazykove konstrukty, jez mohou mit novy informacni vyznam, viz Exaktni veda, tam Priklad inference ve formalnim systemu.
+
+Semanticky trojuhelnik
+Na tuto kapitolu je presmerovano heslo Semanticky trojuhelnik.
+
+Obr. 1 Semanticky trojuhelnik
+Souvislost mezi realnym svetem, jeho poznanim, poznanim vytvorenym vnitropsychickym kognitivnim (znalostnim) modelem a sdelenim o poznanem, graficky znazornuje trojuhelnik uvedeny v obr. 1. Rika se mu semanticky ci semioticky, podle toho, na co se pri vykladu klade duraz. Najdeme ho v mnoha modifikacich a pod jmeny mnohych autoru, napr. Fregeho, Ogdenuv–Richardsuv a dalsi. Podstava trojuhelnika nezobrazuje zadny vztah, nebot veskere vztahy jsou zprostredkovany lidskou psychou umistenou v trojuhelniku na jeho hornim vrcholu. Pokud by podstava mela zobrazovat nejaky vztah, musel by zde byt dalsi lidsky akter a to neni. Nekdy se do vztahu v trojuhelniku omylem vklada vnejsi pozorovatel (dalsi akter), a vnika dojem, ze podstava nejaky vztah zobrazuje. Vnejsi pozorovatel se na trojuhelnik diva, neucinkuje v nem, jeho pohledem, ani jeho premyslenim nad vztahy v trojuhelniku, se v trojuhelniku nic nemeni.
+
+Jazyk a jeho vazba s poznanim z hlediska vagnosti
+Zde je ukazana vazba jazyka s poznanim pouze z hlediska vagnosti (neurcitost, mlhavost, rozmazanost). Je treba poznamenat, ze jinak je tato vazba mnohem sirsi, nebot prohlubovani a rozsirovani poznani vyzaduje zavadeni nejen novych pojmu, ale i novych jazyku. Prikladem muze byt situace, kdy I. Newton pro sve zakony mechaniky potreboval (a vybudoval) jazyk schopny popisovat spojity (odehravajici se po nekonecne malych prirustcich jak dotycne veliciny, tak casu) dynamicky (s uvazovanim vlivu setrvacnosti) pohyb. Vytvoril novy matematicky nastroj-jazyk, jimz byla teorie fluxi (teorie plynouciho – infinitesimalni pocet), ponekud nemotorny, ale funkcni integro-diferencialni pocet, nebo treba ve 20. stol. vytvareni novych (jazykovych) odvetvi matematiky nutny pro rozvoj fyziky castic.
+
+Poznani realneho sveta je zakladni prirodni vybavou cloveka, umoznujici mu preziti v nem. Realny svet je nedozirne rozsahly a hluboky, avsak ziskane poznatky (vnitropsychicky kognitivni model dane casti realneho sveta) musi obsahovat pouze konecne mnozstvi informace. Musi tedy existovat filtr poznani, provadejici selekci a tak redukci mnozstvi informace. Priroda obdarila cloveka filtrem poznani, jimz je vagnost. Veskere informace (znalosti) ziskane prirozenym lidskym poznanim nemohou byt tedy jine nez vagni. O vagnich znalostech nelze vypovidat jinak nez vagne[8]. Vagnost vnesena do znalosti prirozenym filtrem poznani je vnitropsychicka, rikame ji vnitrni vagnost, a pro druheho cloveka je utajena, muze ji jen odhadovat. Jistou cast svych znalosti je clovek schopen prevadet do vnejsiho komunikacniho jazyka – formulovat (viz obr. 1), a tak sdelovat. Vagnost uchopitelnou (vnejsim) sdelovacim jazykem nazyvame vagnost vnejsi. Vagnost ve sdeleni ma, mimo jine, funkci, kterou je vyladeni – optimalizace pravdivosti sdeleni – nejmensi ztrata informace. Optimalizace pravdivosti sdeleni adekvatni vagnosti rika: Sdeleni ma mit stejnou vagnost, jakou ma informace ziskana poznanim[11] . Vysvetleni: Vnasi-li sdelujici do sdeleni vetsi vagnost, nez odpovida jeho poznani (zdroji informace), osizuje prijemce o informaci. Na druhou stranu, zmensuje-li vagnost sdeleni oproti vagnosti sveho poznani, „vymysli si“ a znehodnocuje predavanou informaci. Pouzity jazyk je tedy, co se vagnosti tyce, svazan s poznanim, jinak receno, poznani vyzaduje pro sdeleni (zaznam) poznaneho, adekvatni jazyk. Potrebna vagnost prirozeneho jazyka je predevsim ve vagni (a tez emocionalni a subjektivni) interpretaci (tj. prirazeni vyznamu) jeho jazykovych konstrukci – vyrazu (slov, vet), ktere rikame konotace viz obr 1. Mimoto prirozeny jazyk disponuje nastroji pro reprezentaci vnejsi vagnosti. Jsou to napr. vyrazy nekolik, snad, asi ano apod. Rika se jim neurcite kvantifikatory. I pro ty vsak plati, ze jsou interpretovany s vnitrni vagnosti, subjektivitou a emocionalitou.
+
+Z vyse uvedene optimalizace pravdivosti sdeleni plyne, ze pozadujeme-li odbourat vnitrni vagnost ve sdeleni zcela (anulovat ji), pak ovsem musi byt nejprve zcela odbourana v poznani (zdroji informace). Ma-li poznanim ziskana informace byt bez vnitrni vagnosti, musi byt zvolen jiny filtr poznani. Tim prechazime z prirozeneho lidskeho sveta, do sveta umeleho. Rikame mu svet exaktni, a vysvetlime proc. U prirozeneho jazyka nelze zcela odstranit (anulovat) vnitrni vagnost, lze vsak vybudovat umele formalni jazyky (matematika, formalni logiky, programovaci jazyky), ktere maji vnitrni vagnost konotace nulovou (tak maji exaktni interpretaci) a jinou mit z principu nemohou. Tato vlastnost (exaktni interpretace) je vsak vykoupena restrikci (zuzenim ve srovnani s prirozenym jazykem) aplikovatelnosti (vyjadrovaci sily) formalniho jazyka, a to pouze na entity exaktniho sveta, jen o tech muze vypovidat, reprezentovat je. Mame tedy jazyk, ktery je schopen reprezentovat znalosti s nulovou vnitrni vagnosti. Ty vsak nejdrive musi byt ziskany odpovidajicim poznanim, poskytujicim znalosti rovnez s nulovou vnitrni vagnosti, tedy rovnez z exaktniho sveta. Jedna se nyni tedy o to, jak nahradit filtr prirozeneho poznani (vagnost) jinym filtrem, ktery by poskytoval informace o realnem svete s nulovou vnitrni vagnosti, tedy exaktne. Je treba vysvetlit, jak uskutecnit exaktni poznani, tedy poznani, kdy znalosti ziskane z realneho sveta jsou soucasti exaktniho sveta. Zazracny most mezi realnym a exaktnim svetem, ktery to umoznuje, se jmenuje velicina (napr. intenzita elektrickeho pole, rychlost, koncentrace kyseliny dusicne, atp.). Je spolecna obema zminenym svetum, nebot v exaktnim svete je exaktne vytycena (kazdy vedouci clovek bez nejmensich pochyb vi, co znamena, tedy jaky ma vyznam), a v realnem svete je elementarni meritelnou sondou do neho, a tak jeho elementarnim meritelnym zastupcem. A jak je to s tim umelym filtrem, ktery umoznuje vyhnout se vnitrni vagnosti? Pro kazdy problem realneho sveta, ktery ma byt uchopen exaktne, je treba zvolit skupinu vhodnych velicin, nalezt prirodni zakonitosti, ktere v realnem svete mezi nimi plati, a ty popsat matematickym jazykem. Dostavame tak matematicky znalostni (kognitivni) model dane casti realneho sveta. Skupina vybranych velicin tvori diskretni Newtonuv filtr (sito), kterym se na danou cast realneho sveta divame. Vztah jazyka a poznani v exaktnim svete je tedy takovy, ze exaktni jazyk (s nulovou vnitrni vagnosti interpretace) slouzi exaktnimu poznani, poskytujicimu znalosti rovnez s nulovou vnitrni vagnosti.
+
+Vlastnost mysli, organ nebo instinkt
+Jedna z definic vidi jazyk primarne jako proprietu lidske mysli, ktera umoznuje lidem komunikaci: naucit se jazyk a produkovat a chapat vypovedi. Tato definice smeruje primo k univerzalite jazyka, ktery je spolecny vsem lidem. Zasahuje take biologickou bazi, tedy unikatni vyvoj lidskeho mozku. Zastupci teorie o tom, ze akvizice jazyka je imanentni lidem, podpiraji sva tvrzeni o fakt, ze kognitivne normalni deti se jazyk nauci bez jakychkoliv formalnich instrukci. Jazyky mohou dokonce vzniknout i spontanne na takovychto mistech, kde spolu ziji lide mluvici ruznymi jazyky, vetsinou dvema a vice, kteri spolu navzajem potrebuji komunikovat; takto vzniklym jazykum se rika take kreolske. Tyto nahledy, ktere mohou byt sledovany az k filosofum Kantovi a Descartesovi, chapou jazyk jako niterne imanentni cloveku; promitaji se tez v Chomskeho teorii univerzalni gramatiky. Tyto definice jsou casto uplatnovany pri studiu jazyka v kognitivne vedeckem ramci a v neurolingvistice. Tuto filosofii ale nesdileji vsichni jazykovedci. Jazyk muze byt take povazovan za socialni konstrukt.[12]
+
+Formalni system znaku
+
+azbuka/cyrilice
+Jina definice vidi jazyk jako formalni system znaku zpravovany gramatickymi pravidly pro formulaci a prenos sdeleni. Tato definice popisuje jazyk jako uzavreny strukturovany system znaku sestavajicich ze dvou casti, tedy oznacujiciho (oznaceni, slovo napr. stul) a oznacovaneho (entita, ke ktere se vyraz vztahuje, napr. stul jako obraz v mysli, koncept stolu, ktery se nam vybavi). Tento strukturni pohled na jazyk je odkazem Ferdinanda de Saussura, jeho dilo zustava podnetne dodnes.
+
+Formalni pristup je typicky svym postupem od nejelementarnejsich casti – fonemu, po celky vetsi jako jsou slova nebo vety. Soucasnym predstavitelem, ktery se touto problematikou zabyva, je Noam Chomsky, autor teorie o generativni gramatice. Definoval jazyk jako mnozinu vet, ktere mohou byt vypovezeny na zaklade principu transformacni gramatiky (proces generace jazyka v mozku). Tato transformacni gramatika je vlastne soubor platnych pravidel, ktera pri uziti formuluji gramaticky spravne vety. Chomsky povazuje tuto schopnost mozku za imanentni a za samotny zaklad jazyka. Takovato teorie ma blizko k formalni logice a formalni teorii gramatiky, uplatnuje se potom v aplikovane pocitacove lingvistice. 
+
+Rozvrstveni jazyka
+Strukturni pristup k jazyku si lze ilustrovat prehledem jednotlivych urovni jazyka, tak jak jsou studovany disciplinami lingvistiky. Jakekoliv jednotky jazyka se deli do dvou skupin, a sice na jednotky emicke (pripona -em) a jednotky s predponou alo-. Emicke jednotky jsou takove, ktere stoji na strane abstraktniho konceptu jazyka, pr. lexem (koncept slova spolecny vsem). Alo jednotky jsou konkretne aktualizovane v urcitem aktu reci, pr. alolex (konkretne vyslovene slovo).
+
+Urovne serazeny od nejmensich jednotek:
+
+foneticka – zvukova stranka reci
+fonologicka – zabyva se rozlisujicimi prvky mezi znaky, hierarchizuje je a tridi (jednotka fon)
+morfologicka – studuje vytvareni vetsich celku jak celych slov, tak jednotlivych vyznamovych casti slov, tez tridi slova do gramatickych kategorii (jednotka morfem)
+lexikalni – slovni zasoba jazyku (jednotka lex)
+syntakticka – popisuje pravidla utvareni frazi nebo vet
+Nastroj komunikace
+
+Abeceda americkeho znakoveho jazyka
+Nejpragmatictejsi z definic vazici se k jazyku je patrne ta smerujici k socialni (spolecenske) funkci. Ta vidi jazyk jako komunikacni system, ktery umoznuje lidem vymenovat verbalni nebo znakove vypovedi. Jako prostredek k vyjadreni se a ovlivnovani tak sveho okoli nebo jednoduse k zabave. Funkcni teorie gramatiky vysvetluji gramaticke struktury jejich komunikativni funkcnosti a chapou gramatickou strukturu jazyka jako vysledek adaptivniho procesu, kteremu byla gramatika “usita na miru“, aby slouzila komunikativnim potrebam jeho uzivatelu.
+
+Tento nahled uzce souvisi s kognitivnim a interakcnim ramcem, se kterym je casto spojovana sociolingvistika a lingvisticka antropologie. Funkcni teorie tihnou k postupu studovat jazyk jako dynamicky fenomen, jako struktury podlehajici neustalemu procesu zmen tak, jak je pouzivan svymi uzivateli. Tento pohled zduraznuje dulezitost lingvisticke typologie klasifikace jazyku podle jejich vnitrni struktury; umoznuje videt proces gramatikalizace v kontextu daneho systemu a ze zjistenych udaju zobecnovat na celek. S oblasti filosofie jazyka, kde je akcentovan pragmaticky pohled, je casto spojovana pozdni prace Wittgensteinova a dalsi filosofove jazyka jako P. Grice, J. Searl a W. O. Quine.
+
+Lidsky jazyk
+Vyvoj
+Lidsky jazyk vznikl pred radove sto tisici lety.[13] Experimenty ukazuji, ze gramatika neni vrozena, ale ziskava se rychle v utlem detstvi.[14] Jazyku se clovek uci jiz v prenatalnim obdobi.[15] Jazyk se mohl technicky spoluvyvijet s vyrobou nastroju.[16] Gramatika a slovni zasoba se vyvijeji ruzne rychle a ruznym zpusobem.[17] S rustem velikosti skupiny mluvcich se jazyk zjednodusuje.[18] Ovsem k pocitani neni jazyka treba.[19] Obecneji neni jazyka treba ani ke schopnosti uvazovani.[20] Jiste aspekty jazyka take castecne souviseji s parametry prostredi jako napriklad vlhkost vzduchu.[21] Ruzne jazyky a pisma vsak umoznuji urcovat vyznam ze zapsaneho stejnou rychlosti.[22] Pocet zivych jazyku se odhaduje na necelych 7 000 a do konce 21. stoleti jich pravdepodobne polovina zanikne.[3]
+
+Unikatnost
+Lidsky jazyk je unikatni ve srovnani s jinymi formami komunikace pouzivane zviraty.[zdroj?!] Systemy pouzivane napriklad vcelami nebo primaty jsou systemy uzavrene, ktere obsahuji jen velmi omezene mnozstvi interakci.[zdroj?] Nicmene ruzne druhy zvirat mohou porozumet vokalizaci jinych druhu.[23]
+
+V kontrastu s tim je lidsky jazyk otevreny, neustale se vyviji a ma vlastnost produktivity, coz znamena, ze z omezeneho mnozstvi znaku vznika neomezene mnozstvi vypovedi a nova slova. Toto je mozne diky dualite jazyka, kde mnozina jednotek, ktere samy o sobe vyznam nemaji (zvuky, pismena, gesta), muze byt takrka neomezene kombinovana s vyznamy k vytvoreni novych znaku. Znaky a gramaticka pravidla jednotlivych jazyku jsou siroce arbitrarni, coz znamena, ze motivovanost spojeni vyrazu s obsahem muze mit nejruznejsi konotace ovlivnene nescetnymi okolnostmi a obsah take nemusi byt motivovan vubec nicim. Interakce, ktere zahrnuji komunikacni prostredky zvirat, jsou vetsinou geneticky determinovane.[zdroj?]
+
+Nektere druhy zvirat si dokazaly prostrednictvim socialniho uceni osvojit nekolik druhu sebevyjadreni prostrednictvim lexigramu. Podobne se mnoho druhu ptaku a velryb uci sve pisne imitaci clenu stejneho druhu, ale zatimco se nektera zvirata mohou naucit mnoho slov a znaku, tak si zadne nedokazalo osvojit vice nez ctyrlete dite a cokoliv ziskaneho ani vzdalene nepripominalo komplexni gramatiku ci lexikalni rozmanitost lidskeho jazyka.[zdroj?]
+
+Lidsky jazyk se predevsim lisi od jakehokoliv druhu zvireciho komunikacniho systemu tim, ze rozlisuje gramaticke a semanticke kategorie, jako jsou podstatna jmena nebo slovesa, pritomnost, minulost a budoucnost, ktere mohou byt uzity k velmi komplexnim sdelenim. Take je jedinym znamym prirozenym jazykem, ktery je modalne nezavisly.[zdroj?] To znamena, ze muze byt pouzit ke komunikaci ne pouze prostrednictvim jednoho kanalu ci media, ale skrze nekolik. Napriklad mluveny jazyk uziva modality auditivni, znakove jazyky a zapis funguji na vizualni modalite a Braillovo pismo rozlisuje taktilni modalitu.
+

@@ -1,0 +1,43 @@
+SK
+
+Bez diakritiky
+
+Je větší pravděpodobnost, že text text1-SK-ND.txt je slovenský(log. pravděpodobnost: -1628.6225884617004) než český(log. pravděpodobnost: -1792.6757245993929).
+Je větší pravděpodobnost, že text text2-SK-ND.txt je slovenský(log. pravděpodobnost: -1423.9131784734413) než český(log. pravděpodobnost: -1562.101075755676).
+Je větší pravděpodobnost, že text text3-SK-ND.txt je slovenský(log. pravděpodobnost: -1013.746722253655) než český(log. pravděpodobnost: -1137.4018421567168).
+Je větší pravděpodobnost, že text text4-SK-ND.txt je slovenský(log. pravděpodobnost: -382.27647952479373) než český(log. pravděpodobnost: -426.5294657544816).
+Je větší pravděpodobnost, že text text5-SK-ND.txt je český(log. pravděpodobnost: -360.69906022646455) než slovenský(log. pravděpodobnost: -364.3534989512017).
+Je větší pravděpodobnost, že text text6-SK-ND.txt je český(log. pravděpodobnost: -535.4358158429304) než slovenský(log. pravděpodobnost: -537.1370627114713).
+Je větší pravděpodobnost, že text text7-SK-ND.txt je slovenský(log. pravděpodobnost: -39720.03140532398) než český(log. pravděpodobnost: -41285.467745023285).
+
+S diakritikou
+
+Je větší pravděpodobnost, že text text1-SK.txt je slovenský(log. pravděpodobnost: -1654.5850796284387) než český(log. pravděpodobnost: -2081.428167059813).
+Je větší pravděpodobnost, že text text2-SK.txt je slovenský(log. pravděpodobnost: -1457.0842112121823) než český(log. pravděpodobnost: -1854.502976899352).
+Je větší pravděpodobnost, že text text3-SK.txt je slovenský(log. pravděpodobnost: -1043.235517519469) než český(log. pravděpodobnost: -1290.1816435328337).
+Je větší pravděpodobnost, že text text4-SK.txt je slovenský(log. pravděpodobnost: -390.79260624799025) než český(log. pravděpodobnost: -444.29573919439287).
+Je větší pravděpodobnost, že text text5-SK.txt je slovenský(log. pravděpodobnost: -370.15326587192084) než český(log. pravděpodobnost: -461.84162239215283).
+Je větší pravděpodobnost, že text text6-SK.txt je slovenský(log. pravděpodobnost: -558.3389116505124) než český(log. pravděpodobnost: -644.1976494097732).
+Je větší pravděpodobnost, že text text7-SK.txt je slovenský(log. pravděpodobnost: -41481.32946880736) než český(log. pravděpodobnost: -47187.894423392754).
+
+CZ
+
+Bez diakritiky
+
+Je větší pravděpodobnost, že text text1-CZ-ND.txt je český(log. pravděpodobnost: -1798.6504913878368) než slovenský(log. pravděpodobnost: -2084.4750773686833).
+Je větší pravděpodobnost, že text text2-CZ-ND.txt je český(log. pravděpodobnost: -2138.3103696457365) než slovenský(log. pravděpodobnost: -2429.3904028867605).
+Je větší pravděpodobnost, že text text3-CZ-ND.txt je český(log. pravděpodobnost: -991.6038802248751) než slovenský(log. pravděpodobnost: -1029.491829207036).        
+Je větší pravděpodobnost, že text text4-CZ-ND.txt je český(log. pravděpodobnost: -315.75232823779726) než slovenský(log. pravděpodobnost: -362.4782722472541).       
+Je větší pravděpodobnost, že text text5-CZ-ND.txt je český(log. pravděpodobnost: -495.75263605885516) než slovenský(log. pravděpodobnost: -568.4519848451771).       
+Je větší pravděpodobnost, že text text6-CZ-ND.txt je český(log. pravděpodobnost: -960.8641208435281) než slovenský(log. pravděpodobnost: -1017.5833404729606).       
+Je větší pravděpodobnost, že text text7-CZ-ND.txt je český(log. pravděpodobnost: -99070.7029318423) než slovenský(log. pravděpodobnost: -108947.42897215315).
+
+S diakritikou
+
+Je větší pravděpodobnost, že text text1-CZ.txt je český(log. pravděpodobnost: -1837.5492796203905) než slovenský(log. pravděpodobnost: -2614.960887815864).
+Je větší pravděpodobnost, že text text2-CZ.txt je český(log. pravděpodobnost: -2175.443695880041) než slovenský(log. pravděpodobnost: -3031.171078548377).
+Je větší pravděpodobnost, že text text3-CZ.txt je český(log. pravděpodobnost: -1022.4502883815755) než slovenský(log. pravděpodobnost: -1287.5791475174326).
+Je větší pravděpodobnost, že text text4-CZ.txt je český(log. pravděpodobnost: -318.2697450099522) než slovenský(log. pravděpodobnost: -431.1422184771793).
+Je větší pravděpodobnost, že text text5-CZ.txt je český(log. pravděpodobnost: -509.9423875415495) než slovenský(log. pravděpodobnost: -713.5388758087971).
+Je větší pravděpodobnost, že text text6-CZ.txt je český(log. pravděpodobnost: -1003.9200117173991) než slovenský(log. pravděpodobnost: -1169.694560457855).
+Je větší pravděpodobnost, že text text7-CZ.txt je český(log. pravděpodobnost: -101161.09910334772) než slovenský(log. pravděpodobnost: -133117.65533478488).

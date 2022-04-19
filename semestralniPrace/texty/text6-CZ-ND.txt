@@ -1,0 +1,1 @@
+Rodina protokolu TCP/IP (anglicky Transmission Control Protocol/Internet Protocol – „primarni prenosovy protokol/protokol sitove vrstvy“) obsahuje sadu protokolu pro komunikaci v pocitacove siti a je hlavnim protokolem celosvetove site Internet.

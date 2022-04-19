@@ -1,0 +1,40 @@
+SK
+
+Bez diakritiky
+(('__label__sk', '__label__cs'), array([0.21577792, 0.20854287]))
+(('__label__sk', '__label__cs'), array([0.45530528, 0.14492869]))
+(('__label__sk', '__label__pl'), array([0.24648449, 0.20912653]))
+(('__label__pl', '__label__sk'), array([0.50769436, 0.22788537]))
+(('__label__sk', '__label__sl'), array([0.52539599, 0.12908396]))
+(('__label__sk', '__label__pl'), array([0.56383616, 0.07648148]))
+(('__label__sk', '__label__pl'), array([0.43910018, 0.13123126]))
+
+
+S diakritikou
+(('__label__sk', '__label__cs'), array([0.92877638, 0.06077509]))
+(('__label__sk', '__label__cs'), array([0.99550396, 0.00130332]))
+(('__label__sk', '__label__cs'), array([0.94895124, 0.04074838]))
+(('__label__sk', '__label__pl'), array([0.65814835, 0.1578905 ]))
+(('__label__sk', '__label__cs'), array([0.99410486, 0.00442034]))
+(('__label__sk', '__label__ca'), array([0.99697006, 0.00119606]))
+(('__label__sk', '__label__cs'), array([0.96615416, 0.02409032]))
+
+CZ
+
+Bez diakritiky
+(('__label__cs', '__label__pl'), array([0.54554826, 0.07731143]))
+(('__label__cs', '__label__pl'), array([0.35577303, 0.15387687]))
+(('__label__cs', '__label__sl'), array([0.3856861 , 0.29372758]))
+(('__label__cs', '__label__pl'), array([0.37693581, 0.3243323 ]))
+(('__label__cs', '__label__sk'), array([0.457623  , 0.11513456]))
+(('__label__cs', '__label__sh'), array([0.27970058, 0.10908206]))
+(('__label__cs', '__label__sk'), array([0.54082358, 0.13929769]))
+
+S diakritikou
+(('__label__cs', '__label__sk'), array([9.98880446e-01, 8.71649536e-04]))
+(('__label__cs', '__label__sk'), array([9.98795748e-01, 6.38731930e-04]))
+(('__label__cs', '__label__sk'), array([0.99717236, 0.00165981]))
+(('__label__cs', '__label__sk'), array([0.99374914, 0.00395669]))
+(('__label__cs', '__label__sk'), array([9.99391317e-01, 3.54354794e-04]))
+(('__label__cs', '__label__sk'), array([0.97852403, 0.00800596]))
+(('__label__cs', '__label__sk'), array([0.99785739, 0.001754  ]))
